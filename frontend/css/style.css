@@ -1,0 +1,16 @@
+body {
+    font-family: Times New Roman, sans-serif;
+    text-align: center;                        
+    margin-top: 75px;                          
+}
+
+input { 
+     padding: 20px;
+	 front-size: 26px;
+	 margin-bottom: 20px;
+}
+
+#output {
+       margin-top: 25px;
+	   front-size: 18px
+}
